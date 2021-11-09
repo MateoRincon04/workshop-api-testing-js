@@ -159,6 +159,5 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,node
 
-#Typescript
-dist
-!reports
+## Reports ##
+report
